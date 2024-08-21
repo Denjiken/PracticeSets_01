@@ -10,6 +10,17 @@ namespace PS01_2_OddEven
     {
         static void Main(string[] args)
         {
+          int = -9;
+          
+          if(n > 0)
+          {
+            Console.WriteLine("The number " + n + " is positive");
+          }
+          else
+          {
+            Console.WriteLine("The number " + n + " is negative");
+          } 
+            Console.ReadLine(); 
         }
     }
 }

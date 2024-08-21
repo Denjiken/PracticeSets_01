@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        ".fantomasignore": "ignore",
+        "plyconfig.json": "jsonc"
+    },
+    "dotnet.preferCSharpExtension": true
+}
